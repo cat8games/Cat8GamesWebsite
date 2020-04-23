@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![Image](src)
+![Image](https://github.com/cat8games/Cat8GamesWebsite/blob/master/cat8games.jpg)
 
 You can use the [editor on GitHub](https://github.com/cat8games/Cat8GamesWebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
